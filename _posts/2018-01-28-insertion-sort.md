@@ -12,7 +12,7 @@ This is a (perhaps overkill) 3D WEBGL visualization of Insertion Sort using the 
         </iframe>
     </div>
 </div>
-<center><em>click in iframe to begin</em></center>
+<center><em>click mouse in iframe to begin</em></center>
 <h2>Controls</h2>
 - MOUSE = pan around
 - ENTER = play sorting animation

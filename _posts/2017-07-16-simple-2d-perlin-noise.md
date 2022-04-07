@@ -11,12 +11,10 @@ tags: [perlin noise,terrain,interactive]
 
 <div class="box">
     <div class="box-content">
-        <iframe src="https://editor.p5js.org/Berkanan/full/LbNSvlqKU" width="100%" height="100%"></iframe>
+        <iframe src="https://editor.p5js.org/Berkanan/full/LbNSvlqKU"></iframe>
     </div>
 </div>
-<center>
-    <em>click on the map to generate a new one</em>
-</center>
+<center><em>click mouse in iframe to generate a new map</em></center>
 <br>
 This sketch maps perlin noise between a value of 0 and 255 across a grid. Values greater than or equal to 100 are
 "grass", values between 75 and 100 are "sand", and values less than or equal to 75 are "water".
