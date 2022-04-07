@@ -1,0 +1,9 @@
+---
+title: Orbiting Pixels Utility
+author: Tristan Madden
+categories: [JavaScript,p5.js]
+tags: [processing]
+---
+This is not a program that should be running in a browser. With that said, writing this program was a laborious process that taught me a lot about JavaScript, about Processing, and about optimization. The algorithm I implemented works first by creating a grid of evenly-spaced points. Each points has a corresponding object that rotates around that point that can be assigned characteristics such as rotation radius, a shape, and a color that corresponds to an x and y position on a source image. To make things more interesting, I mapped the phase of each object's rotation to the brightness value of the source image's corresponding pixel. The results... could probably be better summarized with a YouTube demonstration.
+<iframe src="https://www.youtube.com/embed/wScbpI7JfZ0?feature=oembed" allowfullscreen="allowfullscreen" width="480" height="360" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/-dvcPju6q5o?feature=oembed" allowfullscreen="allowfullscreen" width="480" height="360" frameborder="0"></iframe>
