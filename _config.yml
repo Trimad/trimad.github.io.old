@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 #img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-#avatar: '/commons/avatar.jpg'
+avatar: 'assets/img/avatar.gif'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -115,7 +115,7 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env:          # [development|production]
 
-paginate: 10
+paginate: 16
 
 # ------------ The following options are not recommended to be modified ------------------
 
