@@ -23,7 +23,7 @@ timezone: America/Indiana/Indianapolis
 
 title: Berkanan                          # the main title
 
-tagline: Digital prosthesis for a fallible memory.   # it will display as the sub-title
+tagline: Digital prosthesis for a fallible memory   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A collection of code snippets that might be useful in the future. 
