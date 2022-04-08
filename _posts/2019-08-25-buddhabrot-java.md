@@ -2,7 +2,7 @@
 title: Buddhabrot, Java
 author: Tristan Madden
 categories: [Java]
-tags: [fractals, buddhabrot]
+tags: [fractal, buddhabrot]
 ---
 ![Desktop View](https://i.imgur.com/eLjfYTR.jpg)
 This image was produced by my Java implementation of the Buddhabrot algorithm.  I was very interested in this fractal as a teenager and believe I first encountered it on <a href="http://www.complexification.net/gallery/machines/buddhabrot/">www.complexification.net</a> when I was 15 or so. 

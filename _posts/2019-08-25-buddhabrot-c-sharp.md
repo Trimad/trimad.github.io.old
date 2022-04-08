@@ -2,7 +2,7 @@
 title: Buddhabrot, C#
 author: Tristan Madden
 categories: [C#]
-tags: [fractals, buddhabrot]
+tags: [fractal, buddhabrot]
 
 ---
 
