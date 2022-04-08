@@ -4,15 +4,8 @@ author: Tristan Madden
 categories: [JavaScript,p5.js]
 tags: [perlin noise,terrain,interactive]
 ---
-<!-- <center>
-<iframe src="https://editor.p5js.org/Berkanan/full/LbNSvlqKU" width="100%" height="700px"></iframe>
-<em>click on the map to generate a new one</em>
-</center> -->
-
-<div class="box">
-    <div class="box-content">
-        <iframe src="https://editor.p5js.org/Berkanan/full/LbNSvlqKU"></iframe>
-    </div>
+<div class="iframe-wrapper-1-1">
+    <iframe src="https://editor.p5js.org/Berkanan/full/LbNSvlqKU"></iframe>
 </div>
 <center><em>click mouse in iframe to generate a new map</em></center>
 <br>
