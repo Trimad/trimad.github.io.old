@@ -7,7 +7,11 @@ tags: [prim's algorithm, minimum spanning tree]
 ![Desktop View](https://res.cloudinary.com/deiub7j41/image/upload/v1648776746/image_28-08-2019-06-25-51_mh1llq.jpg)
 I'm working on a few programs that I will be using using to visualize algorithms on procedurally generated terrain. This particular program visualizes a minimum spanning tree using <a href="https://en.wikipedia.org/wiki/Prim%27s_algorithm">Prim's Algorithm</a> on random walkers. The terrain is 128x128 tiles, each containing 4 vertices on the negative y-axis that I applied a <a href="https://en.wikipedia.org/wiki/Perlin_noise">Perlin Noise</a> height map to. The map projection is orthographic, so all objects with the same dimension appear the same size, regardless of whether they are near or far from the camera. The frames were rendered at 1920x1080 resolution.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/RwauA6p1Cic?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-wrapper-16-9">
+    <iframe src="https://www.youtube.com/embed/RwauA6p1Cic"></iframe>
+</div>
+
+
 
 <h2>FFMPEG settings used to assemble the rendered frames</h2>
 ```console

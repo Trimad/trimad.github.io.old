@@ -4,8 +4,8 @@ author: Tristan Madden
 categories: [Java, Processing]
 tags: [open simplex noise]
 ---
-<div class="iframe-wrapper">
-<iframe frameborder="0" src="https://www.youtube.com/embed/iux8QU8PXaA" allowfullscreen allow="autoplay">
+<div class="iframe-wrapper-16-9">
+<iframe src="https://www.youtube.com/embed/iux8QU8PXaA" allowfullscreen>
 </iframe>
 </div>
 <br>

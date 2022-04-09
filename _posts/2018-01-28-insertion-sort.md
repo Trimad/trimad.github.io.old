@@ -6,11 +6,8 @@ tags: [sorting, insertion sort, interactive]
 ---
 This is a (perhaps overkill) 3D WEBGL visualization of Insertion Sort using the WEBGL rendering mode.
 
-<div class="box">
-    <div class="content">
-        <iframe frameborder="0" src="https://editor.p5js.org/Berkanan/full/ND4PVEivz">
-        </iframe>
-    </div>
+<div class="iframe-wrapper-1-1">
+    <iframe src="https://editor.p5js.org/Berkanan/full/ND4PVEivz"></iframe>
 </div>
 <center><em>click mouse in iframe to begin</em></center>
 <h2>Controls</h2>
