@@ -1,7 +1,7 @@
 ---
 title: Enable AutoAdminLogon with PowerShell
 author: Tristan Madden
-categories: [PowerShell]
+categories: [PowerShell,regedit]
 tags: [regedit, domain]
 ---
 This script was written to satisfy a niche case where I temporarily needed a PoS (Point of Sale) to automatically login upon startup using AD credentials.
