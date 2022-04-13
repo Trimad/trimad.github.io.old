@@ -2,7 +2,7 @@
 title: Dump WiFi Passwords
 author: Tristan Madden
 categories: [PowerShell,netsh]
-tags: [netsh, passwords]
+tags: [netsh, passwords, reports]
 ---
 
 This PowerShell script dumps the saved passwords of all wireless networks saved on a Windows 10 or Windows 11 computer. It accomplishes this by first calling:
