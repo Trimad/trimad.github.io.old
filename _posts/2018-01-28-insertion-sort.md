@@ -17,6 +17,6 @@ This is a (perhaps overkill) 3D WEBGL visualization of Insertion Sort using the 
 - RIGHT_ARROW = step forwards
 - SCROLL_UP = zoom in
 - SCROLL_DOWN = zoom out
-<h2><a href="https://editor.p5js.org/Berkanan/full/ND4PVEivz" target="_blank">Click here to render a fullscreen map</a>
+<h2><a href="https://editor.p5js.org/Berkanan/full/ND4PVEivz" target="_blank">Launch this sketch is a new window (recommended)</a></h2>
 </h2>
 <h2><a href="https://editor.p5js.org/Berkanan/sketches/ND4PVEivz" target="_blank">Launch the p5.js editor</a></h2>
