@@ -388,22 +388,26 @@ Additional CSS by Tristan Madden
 // 16:9 aspect ratio
 .iframe-wrapper-16-9 {
   position: relative;
-  padding-bottom: 56.25%;
-  /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  //padding-bottom: 56.25%;
 }
+
 // 1:1 aspect ratio
 .iframe-wrapper-1-1 {
   position: relative;
-  padding-bottom: 100%;
-  /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  //padding-bottom: 100%;
 }
 
-iframe, object{
+iframe,
+object {
   position: absolute;
   top: 0px;
   left: 0px;
   width: 100%;
   height: 100%;
-  background:#ffffff;
+  background: #ffffff;
   border: none;
 }

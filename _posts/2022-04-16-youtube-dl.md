@@ -4,7 +4,7 @@ author: Tristan Madden
 categories: [youtube-dl]
 tags: [audio, video]
 ---
-<i>youtube-dl</i> is a command-line program to download videos from YouTube.com and a few more sites.
+<i>youtube-dl</i> is a command-line program to download videos from www.youtube.com and a few other sites.
 <h2>Examples</h2>
 Download a YouTube video with the best available audio quality:
 ```console
