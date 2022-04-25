@@ -1,7 +1,7 @@
 ---
 title: Buddhabrot, Java
 author: Tristan Madden
-categories: [Java]
+categories: [Java, Fractal]
 tags: [fractal, buddhabrot]
 ---
 ![Desktop View](https://i.imgur.com/eLjfYTR.jpg)

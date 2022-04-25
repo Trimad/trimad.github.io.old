@@ -1,7 +1,7 @@
 ---
 title: Windows 10/11 ms-settings URI Scheme Reference
 author: Tristan Madden
-categories: [Windows]
+categories: [Windows, reference]
 tags: []
 ---
 Knowing the URI Scheme is useful because you can jump straight to specific settings menus using 🪟+R.
