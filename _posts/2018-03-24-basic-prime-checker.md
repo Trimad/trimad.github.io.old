@@ -1,5 +1,5 @@
 ---
-title: Basic Prime Checker
+title: Basic Prime Checker, C++
 author: Tristan Madden
 categories: [C]
 tags: [prime numbers]
