@@ -1,7 +1,7 @@
 ---
 title: Robo Mirror
 author: Tristan Madden
-categories: [CMD, BAT]
+categories: [CMD, Batchfile]
 tags: [robocopy]
 ---
 
