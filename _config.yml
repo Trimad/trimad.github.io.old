@@ -89,7 +89,7 @@ avatar: 'assets/img/avatar.gif'
 toc: true
 
 comments:
-  active: giscus         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: 'giscus'         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     comments:
@@ -102,7 +102,7 @@ comments:
   giscus:
     repo: "Trimad/trimad.github.io"
     repo-id: "R_kgDOHI4hOg"
-    category: 'Announcements'
+    category: "General"
     category-id: "DIC_kwDOHI4hOs4CPl3Z"
     mapping: "pathname"
     reactions-enabled: "1"
