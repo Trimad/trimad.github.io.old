@@ -2,7 +2,7 @@
 title: youtube-dl
 author: Tristan Madden
 categories: [CMD, youtube-dl]
-tags: [audio, video]
+tags: [audio, video,🏴‍☠️]
 ---
 <i>youtube-dl</i> is a command-line program to download videos from www.youtube.com and a few other sites.
 <h2>Examples</h2>
