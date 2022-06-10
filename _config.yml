@@ -102,7 +102,7 @@ comments:
   giscus:
     repo: "Trimad/trimad.github.io"
     repo-id: "R_kgDOHI4hOg"
-    category: "General"
+    category: "Comments"
     category-id: "DIC_kwDOHI4hOs4CPl3Z"
     mapping: "pathname"
     reactions-enabled: "1"
