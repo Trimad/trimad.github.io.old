@@ -107,8 +107,8 @@ comments:
     mapping: "pathname"
     reactions-enabled: "1"
     emit-metadata: "0"
-    # input-position: "bottom"
-    theme: "dark_dimmed"
+    input-position: "top"
+    theme: "light"
     lang: "en"
     crossorigin: "anonymous"
     
