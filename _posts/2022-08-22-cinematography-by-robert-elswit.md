@@ -7,7 +7,8 @@ tags: [stable diffusion]
 
 This is a living document dedicated to capturing a particular generative style. 
 
-![Desktop View](/assets/img/2022-08-22/wizard 768x384x4.png){: width="auto" height="auto" }
+![Desktop View](/assets/img/2022-08-22/01.png){: width="auto" height="auto" }
+![Desktop View](/assets/img/2022-08-22/02.png){: width="auto" height="auto" }
 
 `
 from torch import autocast
